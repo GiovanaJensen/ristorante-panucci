@@ -1,16 +1,30 @@
-# panucci_ristorante
+  <h1 align="center"> Ristorante Panucci </h1>
 
-A new Flutter project.
+<p align="center">
+Projeto realizado para fins de estudo do app Ristorante Panucci
+</p>
 
-## Getting Started
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
 
-This project is a starting point for a Flutter application.
+<br>
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Tecnologias
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter
+- Dart
+
+## 💻 Projeto
+
+o app para o Ristorante Panucci foi desenvolvido com o propósito de absorver os conceitos propostos no curso "Flutter: aplicando constraints e implementando layouts responsivos".
+
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/NUkj8R3K3m19OhZD9x4Xwo/Ristorante-Panucci?node-id=1%3A2&t=AyVHbdFZbqdtvbVP-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
+### Em Construção
